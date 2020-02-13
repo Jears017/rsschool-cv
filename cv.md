@@ -25,3 +25,15 @@ admin.f = sayHi;
 user.k();
 admin.f() 
 ```
+
+## Experience 
+
+Cources: HTML/CSS(HTMLacademy), Introduction to JavaScript(coursera). 
+
+## Education
+
+Minsk State College of Elecronics, cources: HTML/CSS(HTMLacademy), Introduction to JavaScript(coursera). 
+
+## English 
+
+A2
